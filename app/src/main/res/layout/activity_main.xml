@@ -21,7 +21,7 @@
             android:fontFamily="@font/alike"
             android:gravity="center_horizontal"
             android:shadowColor="#FAFAFA"
-            android:text="Welcome to Furniture Shop"
+            android:text="Welcome to Dating App"
             android:textColor="#000000"
             android:textColorHighlight="#F4F4F4"
             android:textSize="28sp" />
