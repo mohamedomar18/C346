@@ -61,7 +61,7 @@
                 android:id="@+id/buttonMessage1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Button"
+                android:text="Message Now!"
                 app:backgroundTint="#FFC107" />
 
             <androidx.cardview.widget.CardView
@@ -99,7 +99,8 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_weight="0"
-                            android:text="TextView" />
+                            android:text="I have cookies!!!"
+                            android:textSize="20sp" />
                     </LinearLayout>
 
                 </LinearLayout>
@@ -109,7 +110,7 @@
                 android:id="@+id/button2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Button"
+                android:text="Message Now!"
                 app:backgroundTint="#FFC107" />
 
             <androidx.cardview.widget.CardView
@@ -159,7 +160,7 @@
                 android:id="@+id/button3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Button"
+                android:text="Message Now!"
                 app:backgroundTint="#FFC107" />
 
             <androidx.cardview.widget.CardView
@@ -198,8 +199,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:fontFamily="cursive"
-                            android:text="There is an ocean of silence between us… and I am drowning in it."
+                            android:fontFamily="monospace"
+                            android:text="Dogs are monsters"
                             android:textSize="20sp" />
                     </LinearLayout>
 
@@ -210,7 +211,7 @@
                 android:id="@+id/button4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Button"
+                android:text="Message Now!"
                 app:backgroundTint="#FFC107" />
 
             <androidx.cardview.widget.CardView
@@ -250,7 +251,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="0"
-                            android:text="TextView" />
+                            android:text="DON'T TAKE THE COOKIES GRANNY GRAN GRAN IS GIVING OUT!!!!! IT'S LACED WITH..." />
                     </LinearLayout>
 
                 </LinearLayout>
@@ -260,7 +261,7 @@
                 android:id="@+id/button5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Button"
+                android:text="Message Now!"
                 app:backgroundTint="#FFC107" />
 
         </LinearLayout>
